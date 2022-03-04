@@ -1,7 +1,7 @@
 <h1>FoodTruck<h1>
 
     
-## Project
+### Project
 
 This restaurant website, fastfood was made with Laravel Framework, it’s developed mainly for the back-end part, with the realization administration system.
 The project is still under developement.
@@ -30,10 +30,7 @@ What interests me is to work on an administration interface initially coupled wi
 - Blade
 - HTML / CSS
 - JS
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+    
 
 ## Bugs and possible corrections made
 
